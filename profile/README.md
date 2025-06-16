@@ -32,23 +32,89 @@
 ---
 
 ## 5. 👥 팀원 소개
+<table style="width:100%; max-width:800px; table-layout:fixed; text-align:center; margin:auto;">
+  <tr>
+    <td style="width:20%; padding:10px; text-align:center; vertical-align:middle;">
+      <a href="https://github.com/6v6DS">
+        <img src="https://avatars.githubusercontent.com/u/142214903?v=4" width="100%"/>
+      </a>
+    </td>
+    <td style="width:20%; padding:10px; text-align:center; vertical-align:middle;">
+      <a href="https://github.com/0Jaemin0">
+        <img src="https://avatars.githubusercontent.com/u/127086869?v=4" width="100%"/>
+      </a>
+    </td>
+    <td style="width:20%; padding:10px; text-align:center; vertical-align:middle;">
+      <a href="https://github.com/sihyuuun">
+        <img src="https://avatars.githubusercontent.com/u/102678331?v=4" width="100%"/>
+      </a>
+    </td>
+    <td style="width:20%; padding:10px; text-align:center; vertical-align:middle;">
+      <a href="https://github.com/neungdong">
+        <img src="https://avatars.githubusercontent.com/u/171216963?v=4" width="100%"/>
+      </a>
+    </td>
+    <td style="width:20%; padding:10px; text-align:center; vertical-align:middle;">
+      <a href="https://github.com/ihyeeun">
+        <img src="https://avatars.githubusercontent.com/u/153170795?v=4" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><div align="center" style="font-weight:bold;">6v6DS<br><code>FE</code> <code>BE</code></div></td>
+    <td><div align="center" style="font-weight:bold;">0Jaemin0<br><code>FE</code> <code>BE</code></div></td>
+    <td><div align="center" style="font-weight:bold;">sihyuuun<br><code>FE</code> <code>BE</code></div></td>
+    <td><div align="center" style="font-weight:bold;">neungdong<br><code>FE</code> <code>BE</code></div></td>
+    <td><div align="center" style="font-weight:bold;">ihyeeun<br><code>FE</code> <code>BE</code></div></td>
+  </tr>
+</table>
 
-| 이름     | 역할        |
-|----------|-------------|
-| 김00     | FE / UI     |
-| 이00     | BE / API    |
-| 박00     | 기획 / 디자인 |
 
 ---
 
 ## 6. 🧰 기술 스택
+<table style="width:100%; max-width:800px; table-layout:fixed; text-align:center; margin:auto;">
+  <thead>
+    <tr>
+      <th>분류</th>
+      <th>기술 스택</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Frontend</td>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TanstackQuery-FF4154?style=flat&logo=react-query&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>Backend</td>
+      <td>
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>AI</td>
+      <td>
+        <img src="https://img.shields.io/badge/OpenAI_API-00A67E?style=flat&logo=openai&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>협업 도구</td>
+      <td>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-| 구분   | 기술 |
-|--------|------|
-| Frontend | React, TypeScript, TailwindCSS |
-| Backend  | Spring Boot, MySQL, JPA |
-| AI      | ChatGPT, STT/TTS API |
-| 협업 도구 | GitHub, Notion, Figma, Discord |
 
 ---
 
