@@ -122,41 +122,53 @@ AI 챗봇을 활용해 사용자 맞춤 요금제를 추천하고, 요금제 신
 ---
 
 ## 🧰 Together가 사용하는 기술들
-<table>
-  <tr>
-    <th align="center">🖥️ Frontend</th>
-    <th align="center">⚙️ Backend</th>
-    <th align="center">🤖 AI</th>
-    <th align="center">🤝 협업 도구</th>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=storybook&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/OAuth_2.0-EC407A?style=for-the-badge&logo=openid&logoColor=white"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/OpenAI_API-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    </td>
-  </tr>
+<table style="width: 100%; max-width:800px;">
+ <thead style="width: 100%;;">
+   <tr>
+     <th style="width: 25%;">🖥️ Frontend</th>
+     <th style="width: 25%;">⚙️ Backend</th>
+     <th style="width: 25%;">🤖 AI</th>
+     <th style="width: 25%;">🤝 협업 도구</th>
+   </tr>
+ </thead>
+ <tbody style="width: 100%; max-width:800px;">
+   <tr>
+     <td style="width: 25%;">
+       <strong>주요 프레임워크 & 빌드</strong><br/>
+       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=storybook&logoColor=white"/><br/><br/>
+       <strong>상태 관리 & API</strong><br/>
+       <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zotero&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/><br/><br/>
+       <strong>언어</strong><br/>
+       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+     </td>
+     <td style="width: 25%;">
+       <strong>주요 프레임워크</strong><br/>
+       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/><br/><br/>
+       <strong>빌드 & DB</strong><br/>
+       <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/><br/>
+       <strong>인증 & 보안</strong><br/>
+       <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/OAuth_2.0-EC407A?style=for-the-badge&logo=openid&logoColor=white"/>
+     </td>
+     <td style="width: 25%;">
+       <strong>사용 API</strong><br/>
+       <img src="https://img.shields.io/badge/OpenAI_API-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+     </td>
+     <td style="width: 25%;">
+       <strong>협업 툴</strong><br/>
+       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><br/>
+       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+     </td>
+   </tr>
+ </tbody>
 </table>
 
 ---
